@@ -1,0 +1,12 @@
+C:\Users\Masa\OneDrive\Desktop\LastTry\B211200558_AuroraCo_Login\B211200558_AuroraCo_Login\bin\Debug\B211200558_AuroraCo_Login.exe.config
+C:\Users\Masa\OneDrive\Desktop\LastTry\B211200558_AuroraCo_Login\B211200558_AuroraCo_Login\bin\Debug\B211200558_AuroraCo_Login.exe
+C:\Users\Masa\OneDrive\Desktop\LastTry\B211200558_AuroraCo_Login\B211200558_AuroraCo_Login\bin\Debug\B211200558_AuroraCo_Login.pdb
+C:\Users\Masa\OneDrive\Desktop\LastTry\B211200558_AuroraCo_Login\B211200558_AuroraCo_Login\obj\Debug\B211200558_AuroraCo_Login.csproj.AssemblyReference.cache
+C:\Users\Masa\OneDrive\Desktop\LastTry\B211200558_AuroraCo_Login\B211200558_AuroraCo_Login\obj\Debug\B211200558_AuroraCo_Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\Masa\OneDrive\Desktop\LastTry\B211200558_AuroraCo_Login\B211200558_AuroraCo_Login\obj\Debug\B211200558_AuroraCo_Login.Form1.resources
+C:\Users\Masa\OneDrive\Desktop\LastTry\B211200558_AuroraCo_Login\B211200558_AuroraCo_Login\obj\Debug\B211200558_AuroraCo_Login.Properties.Resources.resources
+C:\Users\Masa\OneDrive\Desktop\LastTry\B211200558_AuroraCo_Login\B211200558_AuroraCo_Login\obj\Debug\B211200558_AuroraCo_Login.csproj.GenerateResource.cache
+C:\Users\Masa\OneDrive\Desktop\LastTry\B211200558_AuroraCo_Login\B211200558_AuroraCo_Login\obj\Debug\B211200558_AuroraCo_Login.csproj.CoreCompileInputs.cache
+C:\Users\Masa\OneDrive\Desktop\LastTry\B211200558_AuroraCo_Login\B211200558_AuroraCo_Login\obj\Debug\B211200558_AuroraCo_Login.exe
+C:\Users\Masa\OneDrive\Desktop\LastTry\B211200558_AuroraCo_Login\B211200558_AuroraCo_Login\obj\Debug\B211200558_AuroraCo_Login.pdb
+C:\Users\Masa\OneDrive\Desktop\LastTry\B211200558_AuroraCo_Login\B211200558_AuroraCo_Login\obj\Debug\B211200558_AuroraCo_Login.Rapor.resources
